@@ -1,0 +1,46 @@
+/* Atividade textando personalizar as tags (01) */
+h1 {
+    color: pink;
+}
+
+p {
+    color: aqua;
+}
+
+p a {
+    color: rgb(144, 227, 19);
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    
+}
+
+/* Atividade personalizando uma tag através de id (02) */
+
+#logo {
+    color: red;
+    text-shadow: red 2px 2px 2px;
+}
+
+/* Atividade personalizando uma tag atraves de classe (03)*/
+
+.codigo {
+    color: black;
+    font-size: large;
+}
+
+.codigo2{
+    color: brown;
+    font-size: medium;
+}
+
+.background {
+    
+    background-color: rgb(247, 229, 232);
+}
+
+.a_color{
+    color: rgb(130, 118, 26);
+}
