@@ -12,8 +12,7 @@ p a {
 }
 
 div {
-    display: flex;
-    justify-content: center;
+    
     
 }
 
@@ -54,4 +53,14 @@ div {
 /* Atividade 06 - transparência (rgba) */
 .transparencia {
     color: rgba(255, 0, 0, 0.229)
+}
+
+/* Atividade 07 - medidas */
+
+.pai {
+    font-size: 25px;
+}
+
+.filho {
+    font: 1.2em;
 }
