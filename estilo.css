@@ -46,7 +46,12 @@ div {
     color: rgb(130, 118, 26);
 }
 
-/* atividade 05 - cores em hexadecimais */
+/* atividade 05 - cores em hexadecimal */
 .hexa {
     color: #7d1885;
+}
+
+/* Atividade 06 - transparência (rgba) */
+.transparencia {
+    color: rgba(255, 0, 0, 0.229)
 }
