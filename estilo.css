@@ -36,6 +36,7 @@ div {
     font-size: medium;
 }
 
+/* Atividade 04 - cores em background */
 .background {
     
     background-color: rgb(247, 229, 232);
@@ -43,4 +44,9 @@ div {
 
 .a_color{
     color: rgb(130, 118, 26);
+}
+
+/* atividade 05 - cores em hexadecimais */
+.hexa {
+    color: #7d1885;
 }
